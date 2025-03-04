@@ -1,0 +1,13 @@
+* Header
+#+STARTUP: overview ::启动时默认显示overview级别
+#+STARTUP: logdrawer ::启动LOGBOOK drawer
+#+TODO: TODO(t) SCH(s) WAIT(w) |DONE(d) CANCELED(c)
+
+* Inbox
+** 线性代数
+
+** Ray Tracing in One Weekend
+[[https://raytracing.github.io/books/RayTracingInOneWeekend.html][website]]
+
+** Org GTD
+[[https://www.bilibili.com/video/BV1Z7411273s?spm_id_from=333.788.player.switch&vd_source=b55ef0db8e819e2d4b47b60d60cc662b&p=3][bilibili video]]
