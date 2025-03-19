@@ -1,0 +1,20 @@
+* 文件头
+#+STARTUP: overview ::启动时默认折叠内容，仅显示大纲标题
+#+STARTUP: logdrawer ::自动隐藏 LOGBOOK 日志抽屉（需手动展开查看）
+#+TODO: TODO(t) SCH(s) WAIT(w) | DONE(d) CANCELED(c)  
+#+TAGS: office(o) home(h)
+#+PROPERTY: Effort_ALL 0 0:10 0:20 0:30 1:00 2:00 3:00 4:00 8:00 ::自定义任务耗时属性，可选值为：10分钟、30分钟、1小时等
+#+COLUMNS: %7TODO(To Do) %40ITEM(Task) %TAGS(Tags) %6CLOCKSUM(Clock) ::列视图格式： 7字符宽显示任务状态（如 TODO/DONE）40字符宽显示任务描述 显示标签（如 :office:） 6字符宽显示累计耗时（需配合 org-clock 插件）
+#+OPTIONS: p:t d:1             ::导出时显示计划日期 d:1 :: 导出drawer
+#+HTML_HEAD: <link rel="stylesheet" type="text/css"  href="styles/readtheorg.css" />  
+#+LANGUAGE: zh-CN             ::导出时显示"目录"而非英文标题
+
+* Inbox
+
+** 线性代数
+
+* Todo
+
+* Scheduled
+
+* Project
